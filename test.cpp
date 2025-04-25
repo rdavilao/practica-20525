@@ -2,14 +2,7 @@
 
 using namespace std;
 
-void saludar();
-
 int main() {
-    saludar()
-    cout << "Github" << endl;
-}
-
-
-void saludar() {
     cout << "Hola" << endl;
+    cout << "Github" << endl;
 }
